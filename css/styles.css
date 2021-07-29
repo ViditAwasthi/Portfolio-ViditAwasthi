@@ -185,3 +185,7 @@ hr{
 .footer .link{
 	color: white;
 }
+
+.showcase-list {
+    padding: 2rem;
+}
