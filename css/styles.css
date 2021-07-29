@@ -49,9 +49,6 @@ hr{
 	border-radius: 0.7rem;
 }
 
-.link-center{
-	align-self: center;
-}
 
 /**lists**/
 .bulletless-list{
@@ -156,6 +153,9 @@ hr{
 }
 .skill-section{
 	text-align: center;
+}
+.lowest-section{
+	padding-bottom: 3rem;
 }
 
 
